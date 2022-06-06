@@ -1,4 +1,4 @@
-/* Chuong trinh hien thi ra kich thuoc cua cac kieu du lieu*/
+/*Chuong trinh hien thi ra kich thuoc cua cac kieu du lieu*/
 #include <stdio.h>
 
 int main(void)
